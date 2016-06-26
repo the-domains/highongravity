@@ -1,0 +1,28 @@
+name: HighOnGravity
+favicon: null
+layout_spectrum: 0.17936862516216934
+typography_spectrum: 0.028296498116105795
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.11435789824463427
+  lightness: 0.7268375905696303
+  saturation: 0.9054237853270024
+  rhythmicContrast: 0.7560850367881358
+purpose: []
