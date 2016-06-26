@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[High On Gravity | Photography]]></title>
         <description><![CDATA[High On Gravity | Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://highongravity.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 07:12:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 26 Jun 2016 07:18:23 GMT</lastBuildDate>
+        <atom:link href="http://highongravity.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p></p>]]></description>
-            <link>undefined369e99af-fe37-4c16-ad0d-4f1188296ae7/index.html</link>
+            <link>http://highongravity.com/369e99af-fe37-4c16-ad0d-4f1188296ae7/index.html</link>
             <guid isPermaLink="false">369e99af-fe37-4c16-ad0d-4f1188296ae7</guid>
-            <pubDate>Sun, 26 Jun 2016 07:11:38 GMT</pubDate>
+            <pubDate>Sun, 26 Jun 2016 07:17:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
