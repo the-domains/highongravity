@@ -1,6 +1,6 @@
 name: HighOnGravity
 favicon: null
-layout_spectrum: 0.17936862516216934
+layout_spectrum: 0.84166
 typography_spectrum: 0.028296498116105795
 title: High On Gravity | Photography
 cta:
@@ -22,7 +22,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.11435789824463427
+  brandStrength: 0.375
   lightness: 0.7268375905696303
   saturation: 0.9054237853270024
   rhythmicContrast: 0.7560850367881358
