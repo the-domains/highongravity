@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[High On Gravity | Photography]]></title>
-        <description><![CDATA[High On Gravity | Photography]]></description>
+        <title><![CDATA[High On Gravity Photography]]></title>
+        <description><![CDATA[High On Gravity Photography]]></description>
         <link>http://highongravity.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 26 Jun 2016 07:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 10:36:15 GMT</lastBuildDate>
         <atom:link href="http://highongravity.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
+            <title><![CDATA[New Zealandscapes]]></title>
             <description><![CDATA[<p></p>]]></description>
             <link>http://highongravity.com/369e99af-fe37-4c16-ad0d-4f1188296ae7/index.html</link>
             <guid isPermaLink="false">369e99af-fe37-4c16-ad0d-4f1188296ae7</guid>
-            <pubDate>Sun, 26 Jun 2016 07:17:35 GMT</pubDate>
+            <pubDate>Mon, 27 Jun 2016 10:36:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
